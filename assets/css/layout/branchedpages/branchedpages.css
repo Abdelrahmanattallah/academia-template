@@ -1,0 +1,21 @@
+/* START :ROOTS */
+:root {
+  --primary-color: #1eb2a6;
+  --dark-black: #111111;
+  --white-color: #ffffff;
+  --prime-gray: #999999;
+  --second-gray: #666666;
+  --transperant-one: #ffffffe6;
+  --transperant-two: #ffffffb3;
+  --transperant-three: #ffffff33;
+  --transperant-black: #000000cc;
+  --padding-section: 128px;
+}
+/* END :ROOTS */
+/* START BRANCHED ALL COURSES */
+.Branched.all--courses {
+  & header {
+    background-image: url(../../../content/imgs/bg_2.jpg.webp);
+  }
+}
+/* END BRANCHED ALL COURSES */
